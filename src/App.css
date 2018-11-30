@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+.App {
+  text-align: center;
+}
+
+.header {
+  padding: 12px 0;
+  background: #4ba8cc;
+  text-align: center;
+  width: 100%;
+  height: 60px;
+}
+
+map {
+  width: 60vw;
+  height: 100%;
+}
+
+.header h1 {
+  color: #f0f8ff;
+}
+
+.menu {
+  background-color: #4ba8cc;
+  color: #f0f8ff;
+  padding: 15px 0;
+  width: 40%;
+  height: 93vh;
+  position: absolute;
+  margin-top: 60px;
+  border-radius: 5px;
+}
+
+.search-input {
+  width: 80%;
+  font-size: 20px;
+  border-radius: 6px;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.menu ol {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.menu ol li {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #aba7a7;
+  width: 100%;
+}
+
+.menu ol li:hover {
+  color: #f0f8ff;
+  background-color: black;
+}
+
+.menu-btn {
+  margin-left: 100%;
+  width: 40px;
+  height: 40px;
+  background-color: #4ba8cc;
+  color: #f0f8ff;
+  border: none;
+  border-radius: 5px;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.slideIn {
+  transform: translateX(0);
+}
+
+.slideOut {
+  transform: translateX(-100%);
+}
+
+.gmerror {
+  margin: 25% auto;
+}

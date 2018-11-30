@@ -1,0 +1,342 @@
+[
+    {
+        "id": "544ba82c498e5b1f7abdfe09",
+        "name": "Al Dayaa Restaurant (الضيعة)",
+        "location": {
+            "address": "Plot 29",
+            "crossStreet": "5'th Settlement",
+            "lat": 30.005110492396867,
+            "lng": 31.421965688588298,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 30.005110492396867,
+                    "lng": 31.421965688588298
+                }
+            ],
+            "distance": 419,
+            "cc": "EG",
+            "city": "New Cairo",
+            "state": "Muḩāfaz̧at al Qāhirah",
+            "country": "Egypt",
+            "formattedAddress": [
+                "Plot 29 (5'th Settlement)",
+                "New Cairo",
+                "Muḩāfaz̧at al Qāhirah",
+                "Egypt"
+            ]
+        },
+        "categories": [
+            {
+                "id": "58daa1558bbb0b01f18ec1cd",
+                "name": "Lebanese Restaurant",
+                "pluralName": "Lebanese Restaurants",
+                "shortName": "Lebanese",
+                "icon": {
+                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/middleeastern_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1543532497",
+        "hasPerk": false
+    },
+    {
+        "id": "504a2e6fe4b0c4f4a34a6c7d",
+        "name": "Revolving Restaurant at Grand Nile Tower Hotel",
+        "location": {
+            "address": "Grand Nile Tower Hotel",
+            "crossStreet": "40th Floor",
+            "lat": 30.03468717741775,
+            "lng": 31.22706055641174,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 30.03468717741775,
+                    "lng": 31.22706055641174
+                }
+            ],
+            "distance": 19472,
+            "cc": "EG",
+            "city": "Cairo",
+            "state": "Muḩāfaz̧at al Qāhirah",
+            "country": "Egypt",
+            "formattedAddress": [
+                "Grand Nile Tower Hotel (40th Floor)",
+                "Cairo",
+                "Muḩāfaz̧at al Qāhirah",
+                "Egypt"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d10c941735",
+                "name": "French Restaurant",
+                "pluralName": "French Restaurants",
+                "shortName": "French",
+                "icon": {
+                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/french_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1543532497",
+        "hasPerk": false
+    },
+    {
+        "id": "4ce96f51f86537047cffb6c4",
+        "name": "Square Restaurant & Lounge Cafe",
+        "location": {
+            "address": "Banks Center St",
+            "lat": 30.01873109586936,
+            "lng": 31.421536803245544,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 30.01873109586936,
+                    "lng": 31.421536803245544
+                }
+            ],
+            "distance": 1759,
+            "cc": "EG",
+            "city": "New Cairo",
+            "state": "Muḩāfaz̧at al Qāhirah",
+            "country": "Egypt",
+            "formattedAddress": [
+                "Banks Center St",
+                "New Cairo",
+                "Muḩāfaz̧at al Qāhirah",
+                "Egypt"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d110941735",
+                "name": "Italian Restaurant",
+                "pluralName": "Italian Restaurants",
+                "shortName": "Italian",
+                "icon": {
+                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/italian_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1543532497",
+        "hasPerk": false
+    },
+    {
+        "id": "516576ffe4b0c844ddf3e34a",
+        "name": "El Borg Restaurant (مطعم االبرج)",
+        "location": {
+            "address": "Katameya Plaza Mall",
+            "crossStreet": "Banks Center St.",
+            "lat": 30.018586897255478,
+            "lng": 31.422501068315405,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 30.018586897255478,
+                    "lng": 31.422501068315405
+                }
+            ],
+            "distance": 1723,
+            "cc": "EG",
+            "city": "New Cairo",
+            "state": "Muḩāfaz̧at al Qāhirah",
+            "country": "Egypt",
+            "formattedAddress": [
+                "Katameya Plaza Mall (Banks Center St.)",
+                "New Cairo",
+                "Muḩāfaz̧at al Qāhirah",
+                "Egypt"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1ce941735",
+                "name": "Seafood Restaurant",
+                "pluralName": "Seafood Restaurants",
+                "shortName": "Seafood",
+                "icon": {
+                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/seafood_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1543532497",
+        "hasPerk": false
+    },
+    {
+        "id": "5326e75711d21eff204cf952",
+        "name": "Al Kishawi Restaurant (مطعم القيشاوي)",
+        "location": {
+            "address": "Banks Center St",
+            "crossStreet": "5'th Settlement",
+            "lat": 30.018372473980715,
+            "lng": 31.421201103509794,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 30.018372473980715,
+                    "lng": 31.421201103509794
+                }
+            ],
+            "distance": 1728,
+            "postalCode": "11835",
+            "cc": "EG",
+            "city": "New Cairo",
+            "state": "Muḩāfaz̧at al Qāhirah",
+            "country": "Egypt",
+            "formattedAddress": [
+                "Banks Center St (5'th Settlement)",
+                "New Cairo",
+                "Muḩāfaz̧at al Qāhirah",
+                "11835",
+                "Egypt"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1c4941735",
+                "name": "Restaurant",
+                "pluralName": "Restaurants",
+                "shortName": "Restaurant",
+                "icon": {
+                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1543532497",
+        "hasPerk": false
+    },
+    {
+        "id": "4f531cbbe4b02d0eb42df798",
+        "name": "Al Wadi",
+        "location": {
+            "address": "Road 15 - 5'th Settlement",
+            "crossStreet": "infront of Seven Stars Mall",
+            "lat": 30.003548603542097,
+            "lng": 31.42512724283226,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 30.003548603542097,
+                    "lng": 31.42512724283226
+                }
+            ],
+            "distance": 70,
+            "cc": "EG",
+            "city": "New Cairo",
+            "state": "Muḩāfaz̧at al Qāhirah",
+            "country": "Egypt",
+            "formattedAddress": [
+                "Road 15 - 5'th Settlement (infront of Seven Stars Mall)",
+                "New Cairo",
+                "Muḩāfaz̧at al Qāhirah",
+                "Egypt"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d10b941735",
+                "name": "Falafel Restaurant",
+                "pluralName": "Falafel Restaurants",
+                "shortName": "Falafel",
+                "icon": {
+                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/falafel_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1543532497",
+        "hasPerk": false
+    },
+    {
+        "id": "523b014b498e934a82bacf94",
+        "name": "Restaurant at Tiba Rose Plaza Hotel",
+        "location": {
+            "address": "Tiba Rose Plaza Hotel",
+            "crossStreet": "N.A Road",
+            "lat": 30.02009668418275,
+            "lng": 31.375640595865153,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 30.02009668418275,
+                    "lng": 31.375640595865153
+                }
+            ],
+            "distance": 5183,
+            "cc": "EG",
+            "city": "New Cairo",
+            "state": "Muḩāfaz̧at al Qāhirah",
+            "country": "Egypt",
+            "formattedAddress": [
+                "Tiba Rose Plaza Hotel (N.A Road)",
+                "New Cairo",
+                "Muḩāfaz̧at al Qāhirah",
+                "Egypt"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d115941735",
+                "name": "Middle Eastern Restaurant",
+                "pluralName": "Middle Eastern Restaurants",
+                "shortName": "Middle Eastern",
+                "icon": {
+                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/middleeastern_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1543532497",
+        "hasPerk": false
+    },
+    {
+        "id": "5bb679c151950e002c486b22",
+        "name": "Stereo Restaurant & Cafe",
+        "location": {
+            "lat": 30.015053,
+            "lng": 31.43917,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 30.015053,
+                    "lng": 31.43917
+                }
+            ],
+            "distance": 1829,
+            "cc": "EG",
+            "state": "Cairo Governorate",
+            "country": "Egypt",
+            "formattedAddress": [
+                "Cairo Governorate",
+                "Egypt"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1c4941735",
+                "name": "Restaurant",
+                "pluralName": "Restaurants",
+                "shortName": "Restaurant",
+                "icon": {
+                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1543532497",
+        "hasPerk": false
+    }
+]
